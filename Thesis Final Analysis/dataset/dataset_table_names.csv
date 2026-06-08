@@ -1,0 +1,22 @@
+﻿Q#,Current Name Variable,New Name Variable,Main Measurement Variable
+Q24,The platform provided a clear explanation of how it arrived at its recommendations,Transparency_explanation,Transparency
+Q29,The platform was transparent about the data it used to generate its recommendations.,Transparency_data,Transparency
+Q33,The platform clarified the capabilities and limitations of its recommendation algorithm.,Transparency_limitation,Transparency
+Q12,The algorithmic recommendation was trying to sell something to me.,Persuasion_sell,Persuasion Knowledge Activation
+Q13,The algorithm was intended to influence my opinion about the recommended product.,Persuasion_influence,Persuasion Knowledge Activation
+Q14,The algorithm was designed to make me like specific brands or products.,Persuasion_brand,Persuasion Knowledge Activation
+Q9,It bothers me that this platform's algorithm is able to track detailed information about my behavior.,Privacy_tracking,Privacy Concern
+Q10,I am concerned that the algorithm has access to too much of my personal information.,Privacy_excessive_info,Privacy Concern
+Q11,I am concerned that my information could be used by this algorithm in ways I could not foresee.,Privacy_unforeseen_use,Privacy Concern
+Q15,I am willing to make repeat purchases from this company in the future despite knowing how they use my data.,Loyalty_repeat_purchase,Customer Loyalty
+Q16,I have a positive outlook on the long-term value I will receive from maintaining a relationship with this company.,Loyalty_long_term_value,Customer Loyalty
+Q17,I perceive the company’s algorithmic personalization as effective and customer-oriented.,Loyalty_effectiveness,Customer Loyalty
+Q28,"To show you read this, select 'Neither agree nor disagree'",Attention_check,Attention check
+Q18,I can distinguish between algorithmic recommendations and standard advertisements.,AILiteracy_distinguish_ads,AI Literacy
+Q19,I understand how AI technology utilizes my data to personalize content.,AILiteracy_data_usage,AI Literacy
+Q20,I can evaluate the capabilities and limitations of an AI recommendation engine after seeing it.,AILiteracy_evaluate_limits,AI Literacy
+Q22,I can manage the personal information I provide to this platform to influence its recommendations.,Control_manage_input,Perceived Data Control
+Q23,I have control over what personal information is collected for algorithmic targeting.,Control_collection,Perceived Data Control
+Q21,I have control over how my personal information is processed by this algorithm.,Control_processing,Perceived Data Control
+Q26,What is your age?,Demographic_age,Demographic
+Q27,What is your gender?,Demographic_gender,Demographic
